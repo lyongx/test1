@@ -3,3 +3,4 @@ Git is free software.
 Git is a distributed version control system2.
 Git is free software2.
 to stage in word copy
+in stage
