@@ -7,3 +7,4 @@ in stage
 on dev branch
 in master and branch 1
 test remote commit by 1
+test remote commit2 by 1
