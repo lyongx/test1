@@ -6,3 +6,6 @@ to stage in word copy
 in stage
 on dev branch
 in master and branch 1
+commit 1 by 2
+commit 2 by 2
+commit 3 by 2
