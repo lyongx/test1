@@ -6,3 +6,4 @@ to stage in word copy
 in stage
 on dev branch
 in master and branch 1
+test remote commit by 1
